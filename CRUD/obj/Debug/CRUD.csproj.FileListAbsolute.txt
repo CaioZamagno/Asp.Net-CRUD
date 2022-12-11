@@ -1,0 +1,11 @@
+C:\Users\Caio\Codes\C#\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Caio\Codes\C#\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Caio\Codes\C#\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Caio\Codes\C#\CRUD\CRUD\obj\Debug\CRUD.pdb
